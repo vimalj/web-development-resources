@@ -670,8 +670,3 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 [⬆ back to top](#table-of-contents)
 
-/*** Made by [Marko](https://markodenic.com).
-
-Similar amazing projects: [Public APIs](https://publicapis.dev) - [Dev Resources](https://devresourc.es)
-
-[awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg ***/
