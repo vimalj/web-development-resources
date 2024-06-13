@@ -1,8 +1,8 @@
 # Awesome Web Development Resources ![Awesome][awesome-badge]
 
-This is an awesome project about Web Development resources. ⚡
+This is an awesome project about Web Development resources.
 
-Resources are added frequently! ⚡
+Resources are added frequently!
 
 Enjoy! :)
 
